@@ -1,0 +1,693 @@
+ 
+Indiana University Bloomington 
+Academic Advisement Report
+For Alexander Minch 2001120058 prepared on 04/04/2025 at 07:05 EDT
+Requested by Alexander Minch
+Program/Plan Requirement Term
+Undergraduate Career Fall 2023 
+Informatics Undergraduate Program Fall 2023 
+Computer Science BSMajor Fall 2023 
+Artificial Intelligence Specialization Fall 2023 
+Mathematics MIN Minor Fall 2023 
+Data Science MIN Minor Fall 2023 
+Business Ugrd MIN Minor Fall 2023 
+ 
+GENERAL EDUCATION - COMMON GROUND CURRICULUM (RG 16389)
+Satisfied:  
+These requirements must be completed by all students earning a Bachelor's degree from Indiana University, Bloomington.
+ 
+COMMON GROUND REQUIREMENTS
+This Academic Advisement Report indicates progress toward an academic degree. It is produced for advising purposes only and does not constitute an official record. Although every effort has been made
+to ensure accuracy, there may be errors in some cases. 
+Students are responsible for fulfilling Indiana University Bloomington General Education Common Ground requirements as stated in the appropriate IU Bloomington General Education bulletin. If you 
+discover an error in the Common Ground requirements, please report it to your academic advisor. 
+This report may include courses in current enrollment, but a requirement is not satisfied until the courses are completed with the appropriate grades. 
+The information shown reflects the Registrar's files as of the date the report was prepared. Students not graduating within eight (8) years may be placed on new Common Ground requirements.
+ 
+FOUNDATIONS: ENGLISH COMPOSITION (RQ 25641)
+Satisfied:  
+Students must successfully complete one GenEd-approved English Composition course with a grade of C or higher.
+ 
+Course(s) taken in English Composition
+One course (with a C or higher) required 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2022 ENG-W  131 READING, WRITING, & INQUIRY I A- 3.00 EN
+ 
+FOUNDATIONS: MATHEMATICAL MODELING (RQ 25649)
+Satisfied:  
+Students must successfully complete one GenEd-approved Mathematical Modeling course. 
+Alternatively, students may fulfill the GenEd Mathematical Modeling requirement by completing the GenEd-approved finite math two-course sequence, MATH-D 116 and MATH-D 117. The requirement 
+will remain unsatisfied until both courses have been completed with a passing grade.
+ 
+Course(s) taken in Mathematical Modeling
+One course, or the finite math two-course sequence, required  
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+ 
+BREADTH OF INQUIRY: ARTS AND HUMANITIES (RQ 25653)
+Satisfied:  
+Students must successfully complete at least two courses (for a total of 6 cr.) from the list of GenEd-approved Arts and Humanities courses.
+ 
+Course(s) taken in Arts and Humanities
+Two courses (totaling 6 cr.) required 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 COLL-C  103 CRIT APPROACHES: ARTS&HUMNTIES
+(TOLKIEN: ROOTS OF MOD FANTASY)A- 3.00 EN
+Fall 2024 FOLK-F  141 URBAN LEGEND A 3.00 EN
+ 
+BREADTH OF INQUIRY: SOCIAL AND HISTORICAL STUDIES (RQ 25654)
+Satisfied:  
+Students must successfully complete at least two courses (for a total of 6 cr.) from the list of GenEd-approved Social and Historical Studies courses.
+ 
+Course(s) taken in Social and Historical Studies
+Two courses (totaling 6 cr.) required 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 ECON-E  202 INTRO TO MACROECONOMICS T 3.00 TE
+Spr 2024 INTL-I  205 CULTURE AND POLITICS C+ 3.00 EN
+ 
+BREADTH OF INQUIRY: NATURAL AND MATHEMATICAL SCIENCES (RQ 25650)
+Satisfied:  
+Students must successfully complete at least 5 cr. from the list of GenEd-approved Natural and Mathematical Sciences courses (at least one course in which credit is earned must be designated as a 
+Natural Science course).
+Note: A course used to satisfy the GenEd Mathematical Modeling requirement will not also count toward the GenEd Natural and Mathematical Sciences requirement.
+ 
+Course(s) taken in Natural and Mathematical Science
+5 cr. of Natural and Mathematical Science courses required (minus any course(s) used to satisfy the GenEd Mathematical Modeling requirement). 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 CSCI-C  102 GREAT IDEAS IN COMPUTING T 3.00 TE
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Fall 2024 AST-A  105 STARS AND GALAXIES A 3.00 EN
+Spr 2025 PHYS-P  105 BASIC PHYSICS OF SOUND 3.00 IP
+ 
+Course(s) taken in Natural Science
+One Natural Science course required 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2024 AST-A  105 STARS AND GALAXIES A 3.00 EN
+Spr 2025 PHYS-P  105 BASIC PHYSICS OF SOUND 3.00 IP
+ 
+WORLD LANGUAGES AND CULTURES (RQ 25655)Satisfied:  
+Students must successfully complete one of the following three options: 
+<u>World Languages:</u> a single GenEd-approved world language through the fourth semester of college-level coursework
+<i>OR</i>
+<u>World Cultures:</u> at least two courses (for a total of 6 cr.) from the list of GenEd-approved World Culture courses
+<i>OR</i> 
+<u>Overseas Study:</u> an approved study-abroad program or approved study-abroad internship of at least 6 cr. and at least six weeks in duration (or a combination of two programs, each at least 3 cr. 
+and three weeks in duration, totaling 6 cr.).
+ 
+Course(s) taken in World Cultures (Info Only)
+This section does <b>not</b> check whether the World Cultures option has been satisfied but allows the display of World Culture courses when another option has been satisfied. 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2024 INTL-I  205 CULTURE AND POLITICS C+ 3.00 EN
+Spr 2025 GER-E  121 AN INTRO TO GERMAN CULTURE 3.00 IP
+ 
+World Cultures Option
+Satisfied:  
+Two courses (totaling 6 cr.) required 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2024 INTL-I  205 CULTURE AND POLITICS C+ 3.00 EN
+Spr 2025 GER-E  121 AN INTRO TO GERMAN CULTURE 3.00 IP
+ 
+RESIDENCY REQUIREMENT
+Satisfied:  
+A minimum of 6 cr. of the IU Bloomington General Education Common Ground Curriculum must be completed in residence at Indiana University Bloomington.
+ 
+Course(s) taken in residence at Indiana University Bloomington
+  
+ 
+· Units: 6.00 required, 33.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2022 ENG-W  131 READING, WRITING, & INQUIRY I A- 3.00 EN
+Fall 2023 COLL-C  103 CRIT APPROACHES: ARTS&HUMNTIES
+(TOLKIEN: ROOTS OF MOD FANTASY)A- 3.00 EN
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Spr 2024 INTL-I  205 CULTURE AND POLITICS C+ 3.00 EN
+Fall 2024 AST-A  105 STARS AND GALAXIES A 3.00 EN
+Fall 2024 FOLK-F  141 URBAN LEGEND A 3.00 EN
+Spr 2025 GER-E  121 AN INTRO TO GERMAN CULTURE 3.00 IP
+Spr 2025 PHYS-P  105 BASIC PHYSICS OF SOUND 3.00 IP
+ 
+LUDDY SCHOOL OF INFORMATICS, COMPUTING, AND ENGINEERING ADVISING RPT (RG 13424)PLEASE CONTACT YOUR ADVISOR WITH QUESTIONS CONCERNING YOUR REQUIREMENTS.
+ 
+INTRODUCTORY TEXT (RQ 16882)
+This report indicates progress toward an academic degree.  It is produced for advising purposes only and does not constitute an official record.  Although every effort has been made to ensure accuracy, 
+there may be errors in some cases.
+Please report all errors to the Luddy Recorder's Office (siceugrd@indiana.edu) or to your academic advisor. Students are ultimately responsible for fulfilling all degree requirements as stated in the Luddy 
+academic bulletin.
+In-progress courses are included for advising purposes. A requirement is not satisfied until the courses are completed with the appropriate grades.
+ 
+REQUIREMENT TERM 4238 (RQ 16884)
+This report was generated based on 2023-2024 requirements.  If you matriculated at IU in another year, you may be held to different degree requirements. Students not graduating within eight (8) years 
+will be placed on new degree requirements.
+ 
+MISCELLANEOUS COURSE INFORMATION  (RG 12543)
+Misc Course Info
+ 
+ALL COURSES TAKEN (RQ 16878)
+Listing of All Courses Taken
+ 
+All Courses Taken
+Satisfied:  
+List of all courses taken 
+ 
+· Units: 84.50 taken
+ Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2022 ENG-W  131 READING, WRITING, & INQUIRY I A- 3.00 EN
+Fall 2023 CSCI-C  102 GREAT IDEAS IN COMPUTING T 3.00 TE
+Fall 2023 ECON-E  202 INTRO TO MACROECONOMICS T 3.00 TE
+Fall 2023 HIST-UN  100 HIST UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+Fall 2023 PHYS-UN  100 PHYS UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2023 POLS-UN  100 POLS UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2023 COLL-C  103 CRIT APPROACHES: ARTS&HUMNTIES
+(TOLKIEN: ROOTS OF MOD FANTASY)A- 3.00 EN
+Fall 2023 COLL-P  155 PUBLIC ORAL COMMUNICATION A 3.00 EN
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Fall 2023 LLLC-Y  101 TECH LEADERSHIP & INNOVATION I A+ 1.50 EN
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 BIOL-L  112 FNDTNS OF BIOL:BIOL MECHANISMS W 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Spr 2024 INTL-I  205 CULTURE AND POLITICS C+ 3.00 EN
+Spr 2024 LLLC-Y  102 TECH LEADERSHIP&INNOVATION II A- 1.50 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 CSCI-A  290 TOOLS FOR COMPUTING
+(CGI/PHP)A 1.50 EN
+Fall 2024 AST-A  105 STARS AND GALAXIES A 3.00 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Fall 2024 FOLK-F  141 URBAN LEGEND A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 BUS-A  200 ACCOUNTING NON-BUSINESS MAJORS 3.00 IP
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+Spr 2025 GER-E  121 AN INTRO TO GERMAN CULTURE 3.00 IP
+Spr 2025 PHYS-P  105 BASIC PHYSICS OF SOUND 3.00 IP
+ 
+F,X,I,W,P,R & DUPS (RQ 16879)
+Unsuitable grades that do not fulfill requirements
+ 
+W Grades
+Satisfied:  
+Courses with grade of W 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2024 BIOL-L  112 FNDTNS OF BIOL:BIOL MECHANISMS W 4.00 EN
+ 
+GPA, TOTAL HOURS AND 300/400 LEVEL COURSES (RG 11776)
+Overall Requirement Not Satisfied:  
+2.0 GPA, 120 Total Hours and 300/400 level courses
+ 
+CUMULATIVE GPA OF 2.00 - THIS EXCLUDES NO CREDIT COURSES  (RQ 16886)
+Satisfied:  
+Cumulative Degree GPA
+ 
+2.00 required
+Satisfied:  Cumulative GPA of 2.00 
+ 
+· GPA:  2.000 required, 3.678 actual 
+ 
+ 
+120 TOTAL HOURS - THIS EXCLUDES NO CREDIT COURSES (RQ 16919)
+Not Satisfied:  
+120 hours required for degree
+ 
+120 hours
+Not Satisfied:  
+Courses to reach the required 120 hours 
+ 
+· Units:  120.00 required, 80.50 taken, 39.50 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2022 ENG-W  131 READING, WRITING, & INQUIRY I A- 3.00 EN
+Fall 2023 CSCI-C  102 GREAT IDEAS IN COMPUTING T 3.00 TE
+Fall 2023 ECON-E  202 INTRO TO MACROECONOMICS T 3.00 TE
+Fall 2023 HIST-UN  100 HIST UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+Fall 2023 PHYS-UN  100 PHYS UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2023 POLS-UN  100 POLS UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2023 COLL-C  103 CRIT APPROACHES: ARTS&HUMNTIES
+(TOLKIEN: ROOTS OF MOD FANTASY)A- 3.00 EN
+Fall 2023 COLL-P  155 PUBLIC ORAL COMMUNICATION A 3.00 EN
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Fall 2023 LLLC-Y  101 TECH LEADERSHIP & INNOVATION I A+ 1.50 EN
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Spr 2024 INTL-I  205 CULTURE AND POLITICS C+ 3.00 EN
+Spr 2024 LLLC-Y  102 TECH LEADERSHIP&INNOVATION II A- 1.50 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 CSCI-A  290 TOOLS FOR COMPUTING
+(CGI/PHP)A 1.50 EN
+Fall 2024 AST-A  105 STARS AND GALAXIES A 3.00 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Fall 2024 FOLK-F  141 URBAN LEGEND A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 BUS-A  200 ACCOUNTING NON-BUSINESS MAJORS 3.00 IP
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+Spr 2025 GER-E  121 AN INTRO TO GERMAN CULTURE 3.00 IP
+Spr 2025 PHYS-P  105 BASIC PHYSICS OF SOUND 3.00 IP
+ 
+300/400 LEVEL COURSES - THIS EXCLUDES NO CREDIT COURSES (RQ 16927)
+Not Satisfied:  
+300/400 Level Courses
+ 
+300/400 Level Courses
+Not Satisfied:  
+Must complete 30 hours at the 300/400 level  
+· Units:  30.00 required, 15.00 taken, 15.00 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+DIVERSITY IN THE UNITED STATES (RG 21158)
+Satisfied:  
+General Education Shared Goal
+ 
+DIVERSITY IN THE UNITED STATES (RQ 14642)
+Satisfied:  
+One course from Diversity in the United States
+ 
+Diversity in the US
+Satisfied:  
+Must be taken on the Bloomington Campus
+<a href="http://college.indiana.edu/academics/courses/index.html?cs=DUS" target="_blank">College Course Offerings:  CASE DUS (Diversity in the U.S.)</a> 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2024 FOLK-F  141 URBAN LEGEND A 3.00 EN
+ 
+LUDDY COMP &  IW (RG 14298) 4108
+Overall Requirement Not Satisfied:  
+Additional Eng Comp and IW
+ 
+ENGLISH COMPOSITION (RQ 16889) 4058
+Satisfied:  
+English Composition with a minimum grade of C
+ 
+ENG COMP
+Satisfied:  
+Must complete ENG-W 131 or equivalent 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2022 ENG-W  131 READING, WRITING, & INQUIRY I A- 3.00 EN
+ 
+INTENSIVE WRITING (RQ 16920) 4068 *MUST BE TAKEN ON THE IUB CAMPUS*
+Not Satisfied:  
+<a href="http://college.indiana.edu/academics/courses/index.html?iw=IW" target="_blank">College Course Offerings:  Intensive Writing</a>
+Not all sections of some courses are Intensive Writing, please check special listings in the schedule of classes for the current Intensive Writing courses.  It is the student's responsibility to register for a 
+class that carries Intensive Writing.
+ 
+Intensive Writing
+Not Satisfied:  
+Must complete one approved intensive writing course on the IU Bloomington campus from the above link 
+ · Courses:  1.00 required, 0.00 taken, 1.00 needed
+ 
+LUDDY NATURAL SCIENCES (RG 14299) 4108
+Not Satisfied:  
+Natural Sciences
+ 
+NATURAL SCIENCES REQUIREMENT (RQ 16735)
+Not Satisfied:  
+Natural Sciences
+ 
+Natural Sciences
+Not Satisfied:  
+Must complete 12 hours of Natural Sciences courses from the following 
+ 
+· Units:  12.00 required, 9.00 taken, 3.00 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 PHYS-UN  100 PHYS UNDISTRIBUTED-100 LEVEL T 3.00 TE
+Fall 2024 AST-A  105 STARS AND GALAXIES A 3.00 EN
+Spr 2025 PHYS-P  105 BASIC PHYSICS OF SOUND 3.00 IP
+ 
+COMPUTER SCIENCE BS (RG 14297) 4098
+Overall Requirement Not Satisfied:  
+Computer Science BS
+Equivalent honors versions of regular computer science courses may substitute throughout.
+ 
+CSCI  MAJOR GPA (RQ 16921)
+Satisfied:  
+CSCI Major GPA
+ 
+CSCI Major GPA
+Satisfied:  
+Must maintain a 2.00 gpa in all courses used in the major; all major course attempt grades are included 
+ 
+· GPA:  2.000 required, 3.702 actual 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 CSCI-A  290 TOOLS FOR COMPUTING
+(CGI/PHP)A 1.50 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+45 CSCI MAJOR HOURS (RQ 13150)
+Not Satisfied:  45 CSCI major hours
+ 
+45 CSCI major hours
+Not Satisfied:  
+Courses to reach the required 45 major hours 
+ 
+· Units:  45.00 required, 20.50 taken, 24.50 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Fall 2024 CSCI-A  290 TOOLS FOR COMPUTING
+(CGI/PHP)A 1.50 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+300/400 LEVEL CSCI MAJOR HOURS (RQ 13169)
+Not Satisfied:  
+3/400 level CSCI hours
+ 
+26 3/400 level CSCI major hours
+Not Satisfied:  
+Courses to reach the required 26 3/400 level major hours 
+ 
+· Units:  26.00 required, 8.00 taken, 18.00 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+CSCIBS REQUIRED COURSES (RQ 16736) 4188
+Satisfied:  
+Core courses with a  minimum grade of C- 
+Equivalent honors versions of regular courses may substitute throughout
+ 
+12 hours in CSCI @ BL
+Satisfied:  
+12 hours in the major on the Bloomington campus 
+ 
+· Units: 12.00 required, 20.50 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Fall 2024 CSCI-A  290 TOOLS FOR COMPUTING
+(CGI/PHP)A 1.50 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP 
+Core courses
+Satisfied:  
+Must complete 
+ 
+· Courses:  5.00 required, 5.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Spr 2024 CSCI-C  212 INTRO TO SOFTWARE SYSTEMS A 4.00 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Spr 2025 CSCI-Y  395 CAREER DEVELPT FOR CSCI MAJORS A 1.00 EN
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+MATH-M 211 (RQ 16922)
+Satisfied:  
+MATH-M 211 with a minimum grade of C-
+ 
+MATH-M 211
+Satisfied:  
+Must complete 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+ 
+MATHEMATICAL SCIENCE COURSES (RQ 11809) 4088
+Satisfied:  
+Mathematical Science Courses with a minimum grade of C-
+ 
+Mathematical/Science Courses
+Satisfied:  
+Must complete 2 additional Mathematical courses; If used in specialization area, it may not be used to satisfy this requirement 
+ 
+· Courses:  2.00 required, 2.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+ 
+ARTIFICIAL INTELLIGENCE SPECIALIZATION (RG 12070) 4178
+Not Satisfied:  
+Must complete all specialization courses with a minimum grade of C-
+ 
+ARTIFICIAL INTELLIGENCE SPECIALIZATION (RQ 16894)  4178
+Overall Requirement Not Satisfied:  
+Artificial Intelligence Specialization
+ 
+CSCI-B 351, B 365 and B 455
+Not Satisfied:  
+Must complete 2 courses from the following 
+ 
+· Courses:  2.00 required, 1.00 taken, 1.00 needed 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+ 
+Additional AI courses or Stats
+Not Satisfied:  
+Must complete 2 courses from the following (if not used above) 
+ 
+· Courses:  2.00 required, 0.00 taken, 2.00 needed
+ 
+CSCI-B 401, 403, 405 or P 415
+Not Satisfied:  
+Must complete one course from the following 
+ 
+· Courses:  1.00 required, 0.00 taken, 1.00 needed
+ 
+Mathematics Minor  (RG 11578)
+Not Satisfied:  
+.
+ 
+Mathematics Minor Requirements (RQ 27128)
+Overall Requirement Not Satisfied:  
+.
+ 
+Calculus I
+Satisfied:  
+. 
+ 
+· Courses:  1.00 required, 1.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+ 
+Calculus II
+Satisfied:  
+. 
+ 
+· Courses:  1.00 required, 1.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+ 
+Advanced Electives
+Not Satisfied:  
+. 
+ 
+· Courses:  3.00 required, 2.00 taken, 1.00 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+ 
+Minor GPA and Hours (RQ 12367)Overall Requirement Not Satisfied:  
+.
+ 
+Minor GPA
+Satisfied:  
+The minor GPA includes all courses applicable to the minor. 
+ 
+· GPA:  2.000 required, 3.418 actual 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+ 
+Hours for Minor
+Not Satisfied:  
+All coursework used to satisfy minor requirements must be completed with a C- or higher. 
+ 
+· Units:  16.00 required, 15.00 taken, 1.00 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+ 
+Minor Upper Division Courses
+Not Satisfied:  
+. 
+ 
+· Units:  9.00 required, 7.00 taken, 2.00 needed
+ 
+ 
+Minor Residency
+Satisfied:  
+. 
+ 
+· Units: 9.00 required, 15.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 MATH-M  211 CALCULUS I T 4.00 TE
+Fall 2023 MATH-M  212 CALCULUS II A- 4.00 EN
+Spr 2024 MATH-M  303 LINEAR ALGEBRA FOR UNDERGRAD A 3.00 EN
+Fall 2024 MATH-M  311 CALCULUS 3 B- 4.00 EN
+ 
+DATA SCIENCE MINOR (RG 11807)
+Not Satisfied:  
+Data Science Minor
+ 
+DATA SCIENCE MINOR (RQ 10581)
+Overall Requirement Not Satisfied:  
+Data Science Minor 
+Data Science Minor GPA
+Satisfied:  
+A minimum grade of C- in all courses with an overall minor GPA of 2.0 is required; all minor course attempt grades are included 
+ 
+· GPA:  2.000 required, 3.871 actual 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+CSCI-C 200 or C 211
+Satisfied:  
+Must complete one of the following
+If completing with CSCI-C 211, knowledge of Python is expected 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2023 CSCI-C  200 INTRO COMPUTERS & PROGRAMMING A 4.00 EN
+ 
+CSCI-C 241 or INFO-I 201
+Satisfied:  
+Must complete one of the following 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Fall 2024 CSCI-C  241 DISCRETE STRUCTURES FOR CSCI A- 3.00 EN
+ 
+CSCI-A 310 or CSCI-C 343
+Satisfied:  
+Must complete one of the following 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 CSCI-C  343 DATA STRUCTURES 4.00 IP
+ 
+DSCI-D 321
+Not Satisfied:  
+Must complete 
+ 
+· Courses:  1.00 required, 0.00 taken, 1.00 needed
+ 
+DSCI-D 351
+Satisfied:  
+Must complete DSCI-D 351 or an approved 3/400 level course 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 CSCI-B  351 INTRO ARTIFICIAL INTELLIGENCE 3.00 IP
+ 
+Business Minor RG 10343
+Overall Requirement Not Satisfied:  
+Grades & GPA Requirements:
+-	C or higher in BUS-K 201-	C- or higher in all other minor courses
+-	Overall GPA of 2.0 in all courses required for the minor
+Other Policies:
+-	A maximum of one course for the minor can be taken on an IU-approved study abroad program, where available.
+-	A minimum of 12 credit hours must be completed on the IU-Bloomington campus.
+(RG 10343)  (RT4228)
+· Units:  0.00 taken 
+ 
+Undergraduate Business Minor
+Overall Requirement Not Satisfied:  
+RQ 24950  (RT 4228)
+ 
+Required Accounting Courses
+Satisfied:  
+Complete BUS-A 200 with a minimum grade of C-. 
+ 
+· Units: 3.00 required, 3.00 taken
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 BUS-A  200 ACCOUNTING NON-BUSINESS MAJORS 3.00 IP
+ 
+Required Computer Course
+Not Satisfied:  
+Complete BUS-K 201 with a minimum grade of C. 
+ 
+· Units:  3.00 required, 0.00 taken, 3.00 needed
+ 
+Required Legal Environment of Business Course
+Not Satisfied:  
+Complete BUS-L 201 with a minimum grade of C-. 
+ 
+· Units:  3.00 required, 0.00 taken, 3.00 needed
+ 
+ELECTIVES:  Undergraduate Business Minor
+Not Satisfied:  
+RQ 24939   (RT4228)
+ 
+Electives
+Not Satisfied:  
+Complete 12 credits: 
+ 
+· Units:  12.00 required, 0.00 taken, 12.00 needed
+ 
+12 cr hr BL Campus
+RQ 29852
+ 
+12 cr hrs BL Campus
+Not Satisfied:  
+12 cr hrs BL Campus 
+ · Units:  12.00 required, 3.00 taken, 9.00 needed
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 BUS-A  200 ACCOUNTING NON-BUSINESS MAJORS 3.00 IP
+ 
+Business Minor GPA
+Satisfied:  
+ RQ21973  (RT4228)
+ 
+Required GPA
+Satisfied:  
+All students must maintain an overall minimum GPA of 2.00 in all courses used in the minor. Please note that only courses taken on an IU campus factor into the minor GPA.
+(RQ21973) (RT4228) 
+ 
+· GPA:  2.000 required, 0.000 actual 
+ 
+Term Subject Catalog Nbr Course Title Grade Units Type Additional Information
+Spr 2025 BUS-A  200 ACCOUNTING NON-BUSINESS MAJORS 3.00 IP

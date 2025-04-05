@@ -67,16 +67,38 @@ def get_requirements(output_txt):
     # key is requirement, value is number of credits needed
     requirements = {}
 
-    with open(output_txt, 'r', encoding='utf-8') as txt_file:
-        text = txt_file.read()
+    with open(output_txt, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
 
-    # repeat process for other basic degree requirements
-    three_req = get_requirements_helper(text, "Must complete 30 hours at the 300/400 level", "Term")
-    if three_req:
-        number_needed = float(three_req.group(1))
-        requirements["300/400 level credits"] = number_needed
-    else:
-        print("No number found before 'needed'.")
+    i = 0
+    while i < len(lines):
+        line = lines[i].strip()
+        if line == "Not Satisfied:":
+            # Look one line up for the requirement name
+            if i > 0:
+                requirement_name = lines[i - 1].strip()
+            else:
+                i += 1
+                continue
+
+            # Start looking forward for the "needed" phrase
+            j = i + 1
+            needed_value = None
+
+            while j < len(lines):
+                needed_match = re.search(r'(\d+\.\d+)\s+needed', lines[j])
+                if needed_match:
+                    needed_value = float(needed_match.group(1))
+                    break
+                j += 1
+
+            if needed_value is not None:
+                requirements[requirement_name] = needed_value
+                # Skip to after the "needed" so we don’t capture inner Not Satisfieds
+                i = j + 1
+                continue
+
+        i += 1
     
     return requirements
 
