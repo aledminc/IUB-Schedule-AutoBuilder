@@ -1,0 +1,98 @@
+import PyPDF2
+import re
+
+# converts given pdf file into text that is wrote to given text file
+def pdf_to_text(pdf_path, output_txt):
+    with open(pdf_path, 'rb') as pdf_file:
+        pdf_reader = PyPDF2.PdfReader(pdf_file)
+
+        if pdf_reader.is_encrypted:
+            try:
+                pdf_reader.decrypt("") 
+            except Exception as e:
+                print(f"Failed to decrypt PDF: {e}")
+                return
+
+        text = ''
+
+        for page_num in range(len(pdf_reader.pages)):
+            try:
+                page = pdf_reader.pages[page_num]
+                extracted = page.extract_text()
+                if extracted:
+                    text += extracted
+            except Exception as e:
+                print(f"Error extracting text from page {page_num + 1}: {e}")
+                continue
+
+    with open(output_txt, 'w', encoding='utf-8') as txt_file:
+        txt_file.write(text)
+
+# gets all course codes of classes taken including those currently being taken
+def get_classes(txt_file, start_phrase, end_phrase): 
+    with open(output_txt, 'r', encoding='utf-8') as txt_file:
+        text = txt_file.read()
+    start_index = text.find(start_phrase)
+    if start_index == -1:
+        print(f"Start phrase not found: '{start_phrase}'")
+        return None
+
+    start_index += len(start_phrase) 
+    end_index = text.find(end_phrase, start_index)
+    if end_index == -1:
+        print(f"End phrase not found: '{end_phrase}'")
+        return None
+
+    block = text[start_index:end_index]
+    block = block.strip()
+    return extract_course_codes(block)
+
+# extracts course codes from the list of all
+def extract_course_codes(text):
+    lines = text.splitlines()
+    course_codes = []
+    for line in lines:
+        if not line.strip():
+            continue
+        match = re.search(r'\b[A-Z]{2,4}-[A-Z]{0,2}\s*\d{3}\b', line)
+        if match:
+            course_code = re.sub(r'\s+', ' ', match.group()).strip()
+            course_codes.append(course_code)
+
+    return course_codes
+
+# currently only understand how to do this for basic degree, at some point have to apply this to minor and major
+def get_requirements(output_txt):
+
+    # key is requirement, value is number of credits needed
+    requirements = {}
+
+    with open(output_txt, 'r', encoding='utf-8') as txt_file:
+        text = txt_file.read()
+
+    # repeat process for other basic degree requirements
+    three_req = get_requirements_helper(text, "Must complete 30 hours at the 300/400 level", "Term")
+    if three_req:
+        number_needed = float(three_req.group(1))
+        requirements["300/400 level credits"] = number_needed
+    else:
+        print("No number found before 'needed'.")
+    
+    return requirements
+
+def get_requirements_helper(text, start, end):
+    start_index = text.find(start)
+    start_index += len("start") 
+    end_index = text.find(end, start_index)
+    block = text[start_index:end_index].strip()
+    match = re.search(r'(\d+\.\d+)\s+needed', block)
+    return match
+
+if __name__ == "__main__":
+    pdf_path = 'example.pdf'
+    output_txt = 'example.txt'
+    pdf_to_text(pdf_path, output_txt)
+    classes_taken = get_classes(output_txt, "List of all courses taken", "F,X,I,W,P,R")
+    unsuitable_classes = get_classes(output_txt, "Unsuitable grades that do not fulfill requirements", "GPA, TOTAL HOURS AND 300/400 LEVEL COURSES (RG 11776)")
+    print(classes_taken, unsuitable_classes)
+    print(get_requirements(output_txt))
