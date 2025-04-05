@@ -30,8 +30,8 @@ def pdf_to_text(pdf_path, output_txt):
 
 # gets all course codes of classes taken including those currently being taken
 def get_classes(txt_file, start_phrase, end_phrase): 
-    with open(output_txt, 'r', encoding='utf-8') as txt_file:
-        text = txt_file.read()
+    with open(txt_file, 'r', encoding='utf-8') as f:
+        text = f.read()
     start_index = text.find(start_phrase)
     if start_index == -1:
         print(f"Start phrase not found: '{start_phrase}'")
@@ -109,12 +109,3 @@ def get_requirements_helper(text, start, end):
     block = text[start_index:end_index].strip()
     match = re.search(r'(\d+\.\d+)\s+needed', block)
     return match
-
-if __name__ == "__main__":
-    pdf_path = 'example.pdf'
-    output_txt = 'example.txt'
-    pdf_to_text(pdf_path, output_txt)
-    classes_taken = get_classes(output_txt, "List of all courses taken", "F,X,I,W,P,R")
-    unsuitable_classes = get_classes(output_txt, "Unsuitable grades that do not fulfill requirements", "GPA, TOTAL HOURS AND 300/400 LEVEL COURSES (RG 11776)")
-    print(classes_taken, unsuitable_classes)
-    print(get_requirements(output_txt))
