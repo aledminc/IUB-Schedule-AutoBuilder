@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chosen Classes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #800000;
+            padding: 20px;
+            text-align: center;
+        }
+        header img {
+            max-height: 50px;
+        }
+        h1 {
+            color: #fff;
+            margin-top: 10px;
+        }
+        .container {
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f1f1f1;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .remove-btn {
+            background-color: #dc3545;
+            color: white;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .remove-btn:hover {
+            background-color: #c82333;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header with IU Logo -->
+    <header>
+        <img src="images/iu-logo.png" alt="IU Logo">
+        <h1>Chosen Classes</h1>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <h2>Your Selected Classes</h2>
+        <table id="class-table">
+            <thead>
+                <tr>
+                    <th>Class Code</th>
+                    <th>Class Rating</th>
+                    <th>Remove</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Example Rows (to be dynamically filled) -->
+                <tr>
+                    <td>CSCI-C 102</td>
+                    <td>8</td>
+                    <td><button class="remove-btn" onclick="removeClass(this)">X</button></td>
+                </tr>
+                <tr>
+                    <td>ENG-W 131</td>
+                    <td>5</td>
+                    <td><button class="remove-btn" onclick="removeClass(this)">X</button></td>
+                </tr>
+                <!-- More rows can be added dynamically -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- JavaScript to handle removal of classes -->
+    <script>
+        // Function to remove a class from the table
+        function removeClass(button) {
+            // Find the row of the clicked button
+            var row = button.parentNode.parentNode;
+            // Remove the row from the table
+            row.parentNode.removeChild(row);
+        }
+    </script>
+
+</body>
+</html>

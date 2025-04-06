@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IU Schedule Builder</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50 min-h-screen flex flex-col items-center justify-center p-6">
+
+  <!-- Header -->
+  <div class="text-center mb-10">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Indiana_University_logo.svg" alt="IU Logo" class="h-20 mx-auto mb-4">
+    <h1 class="text-4xl font-bold text-gray-800">IUB Schedule Builder</h1>
+    <p class="text-gray-600 mt-2 max-w-xl mx-auto">
+      Upload your AAR (Printer Friendly PDF from the bottom of your AAR page), choose your preferences, and generate a customized class schedule!
+    </p>
+  </div>
+
+  <!-- Form Card -->
+  <form class="bg-white shadow-md rounded-2xl p-8 w-full max-w-xl space-y-6" enctype="multipart/form-data">
+    <!-- PDF Upload -->
+    <div>
+      <label class="block text-gray-700 font-semibold mb-2">Upload AAR PDF:</label>
+      <input type="file" accept=".pdf" name="aar_pdf" class="w-full p-3 border rounded-lg shadow-sm focus:ring focus:outline-none" required>
+    </div>
+
+    <!-- Semester and Year -->
+    <div>
+      <label class="block text-gray-700 font-semibold mb-2">Semester and Year:</label>
+      <select class="w-full p-3 border rounded-lg shadow-sm focus:ring focus:outline-none" required>
+        <option>Fall 2025</option>
+      </select>
+    </div>
+
+    <!-- Number of Classes -->
+    <div>
+      <label class="block text-gray-700 font-semibold mb-2">Number of Classes Wanted:</label>
+      <input type="number" name = "num_classes" min="1" max="8" class="w-full p-3 border rounded-lg shadow-sm focus:ring focus:outline-none" required>
+    </div>
+
+    <!-- Difficulty -->
+    <div>
+      <label class="block text-gray-700 font-semibold mb-2">Preferred Difficulty For Semester</label>
+      <input type="range" name = "difficulty" min="1" max="10" class="w-full" />
+      <label class="block text-gray-700 font-semibold mb-2">
+        <div class="flex justify-between text-sm text-gray-600">
+          <span>Easier</span>
+          <span>Harder</span>
+        </div>
+      </label>
+    </div>
+
+    <!-- Specific Classes -->
+    <div>
+      <label class="block text-gray-700 font-semibold mb-2">Specific Class(es) Wanted (comma separated):</label>
+      <input type="text" name="must_have" placeholder="e.g., CSCI-C 241, MATH-M 212" class="w-full p-3 border rounded-lg shadow-sm focus:ring focus:outline-none">
+    </div>
+
+    <!-- Submit -->
+    <button type="submit" class="w-full bg-red-700 text-white p-3 rounded-lg font-semibold hover:bg-red-800 transition">
+      Build My Schedule
+    </button>
+  </form>
+
+</body>
+</html>
+
